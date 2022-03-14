@@ -6,6 +6,8 @@ body {
     display: flex;
     flex-flow: column;
     align-items: center;
+
+    font-family: Arial;
 }
 
 div#header {
@@ -37,7 +39,10 @@ div.input-div {
     justify-content: space-between;
 }
 
-div.input-div > input { border: none; }
+input.input-text { 
+    width: 100%;
+    border: none;
+}
 
 img.icon { width: 20px; }
 
