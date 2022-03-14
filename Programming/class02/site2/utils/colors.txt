@@ -1,0 +1,5 @@
+background: #121212
+gray1: #2f3033
+gray2: #6d6d6d
+white: #e1e1e6
+blue: #3248b3

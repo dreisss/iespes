@@ -1,0 +1,101 @@
+
+body {
+    width: 100vw; height: 100vh;
+    margin: 0px; padding: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #121212;
+    color: #e1e1e6;
+    font-family: 'Google Sans';
+}
+
+div#container {
+    width: 25rem; height: 28.5rem;
+
+    padding: 3rem;
+
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+
+    border: 1px solid #2f3033;
+    border-radius: 8px;
+}
+
+
+h2#title {
+    font-size: x-large;
+    font-weight: 400;
+    margin: 25px 0px 0px 0px;
+}
+
+h3#subtitle {
+    font-size: medium;
+    font-weight: 500;
+    margin: 10px 0px 40px 0px;
+}
+
+input#email {
+    width: calc(100% - 40px); height: 15px;
+
+    margin-bottom: 10px; padding: 20px;
+
+    font-size: medium;
+    font-weight: 500;
+
+    background-color: #00000000;
+    color: #e1e1e6;
+    border: 1px solid #2f2f2f;
+    border-radius: 5px;
+}
+
+a { color: #3248b3; }
+
+a#forget-email {
+    align-self: baseline;
+
+    margin-bottom: 30px;
+
+    font-size: medium;
+    font-weight: 400;
+}
+
+p#info {
+    margin-bottom: 50px;
+
+    font-size: medium;
+
+    color: #6d6d6d
+}
+
+div#buttons {
+    width: 100%;
+
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+input#create-account {
+    font-size: medium;
+    font-weight: 500;
+
+    background-color: #00000000;
+    color: #3248b3;
+    border: none;
+}
+
+input#next {
+    width: 90px; height: 35px;
+
+    font-size: small;
+    font-weight: 500;
+
+    background-color: #3248b3;
+    color: #e1e1e6;
+    border: none;
+    border-radius: 5px;
+}
