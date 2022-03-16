@@ -1,5 +1,0 @@
-background: #191622
-white: #e1e2e6
-gray: #44475a
-hover button: #483C67
-click button: #988BC7
