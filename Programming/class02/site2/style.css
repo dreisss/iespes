@@ -1,101 +1,65 @@
 
 body {
-    width: 100vw; height: 100vh;
-    margin: 0px; padding: 0px;
+    height: 100vh; margin: 0px;
 
     display: flex;
     justify-content: center;
     align-items: center;
 
-    background-color: #121212;
-    color: #e1e1e6;
+    background-color: #121212; color: #fff;
     font-family: Arial;
 }
 
 div#container {
-    width: 25rem; height: 28.5rem;
+    width: 10cm; height: 10.6cm;
 
-    padding: 3rem;
+    padding: 1cm 1cm 1.7cm 1cm;
 
-    display: flex;
-    flex-flow: column wrap;
+    display: flex; flex-direction: column;
+    justify-content: space-evenly;
     align-items: center;
 
-    border: 1px solid #2f3033;
-    border-radius: 8px;
+    border: 0.5mm solid #343539; border-radius: 2mm;
 }
 
 
-h2#title {
-    font-size: x-large;
-    font-weight: 400;
-    margin: 25px 0px 0px 0px;
-}
+h2#title { font-size: x-large; font-weight: 520; margin: 4mm 0 0 0; }
 
-h3#subtitle {
-    font-size: medium;
-    font-weight: 500;
-    margin: 10px 0px 40px 0px;
-}
+h3#subtitle { font-size: medium; font-weight: 500; margin: 2mm 0 8mm 0; }
 
 input#email {
-    width: calc(100% - 40px); height: 15px;
+    width: 90%; height: 3mm;
 
-    margin-bottom: 10px; padding: 20px;
+    margin-bottom: 1mm; padding: 6mm;
 
-    font-size: medium;
-    font-weight: 500;
+    font-size: large; font-weight: 500;
 
-    background-color: #00000000;
-    color: #e1e1e6;
-    border: 1px solid #2f2f2f;
-    border-radius: 5px;
+    background-color: #0000; color: #fff;
+    border: 1px solid #343539; border-radius: 1.5mm;
 }
 
-a { color: #3248b3; }
+a, input#create-account { color: #3892ff; font-weight: 550; cursor: pointer; }
 
-a#forget-email {
-    align-self: baseline;
+a#forget-email { align-self: baseline; margin-bottom: 6mm; font-size: medium; }
 
-    margin-bottom: 30px;
+p#info { margin-bottom: 7mm; color: #a3a5a2; font-size: medium; }
 
-    font-size: medium;
-    font-weight: 400;
-}
-
-p#info {
-    margin-bottom: 50px;
-
-    font-size: medium;
-
-    color: #6d6d6d
-}
-
-div#buttons {
-    width: 100%;
-
-    display: flex;
-    
-    justify-content: space-between;
-}
+div#buttons { width: 100%; display: flex; justify-content: space-between; }
 
 input#create-account {
-    font-size: medium;
-    font-weight: 500;
+    padding: 0;
 
-    background-color: #00000000;
-    color: #3248b3;
+    font-size: medium; font-weight: 500;
+
+    background-color: #0000;
     border: none;
 }
 
 input#next {
-    width: 90px; height: 35px;
+    width: 2.5cm; height: 9mm;
 
-    font-size: small;
-    font-weight: 500;
+    font-size: small; font-weight: 550;
 
-    background-color: #3248b3;
-    color: #e1e1e6;
-    border: none;
-    border-radius: 5px;
+    background-color: #2b6fc4; color: #fff;
+    border: none; border-radius: 5px;
 }
