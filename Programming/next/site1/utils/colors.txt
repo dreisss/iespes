@@ -1,0 +1,7 @@
+transparent: #0000
+black: #000
+black2: #101010
+white: #fff
+gray: #8c8c8c
+gray2: #313131
+gray3: #1c1c1c

@@ -1,7 +1,0 @@
-background: #121212
-transparent: #0000
-gray1: #343539
-gray2: #a3a5a2
-white: #fff
-blue1: #3892ff
-blue2: #2b6fc4

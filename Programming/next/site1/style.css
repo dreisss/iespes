@@ -1,0 +1,167 @@
+
+body {
+    width: 100vw; height: 100vh;
+    margin: 0px; padding: 0px;
+
+    display: flex;
+    flex-flow: column wrap;
+
+    background-color: #000; color: #fff;
+
+    font-family: Arial;
+}
+
+/* ========================================= */
+
+div#left-bar {
+    width: 180px; height: calc(100% - 50px);
+    padding: 25px 30px;
+}
+
+svg#logo { width: 135px; }
+
+div#left-bar-buttons { margin: 0px; }
+
+div#left-bar-buttons > div { margin: 40px 0px; }
+
+div.left-bar-button {
+    margin: 15px 0px;
+
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+
+    color: #8c8c8c
+}
+
+svg.type1-icon {
+    margin-right: 15px;
+    fill: #8c8c8c;
+}
+
+div.icon-div {
+    width: 24px; height: 24px;
+
+    border-radius: 1px;
+    margin-right: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #8c8c8c;
+}
+
+div.left-bar-button:hover { color:#fff; }
+
+div.left-bar-button:hover > svg.type1-icon { fill: #fff; }
+
+div.left-bar-button:hover > div { background-color: #fff; }
+
+/* ========================================= */
+
+div#top-bar {
+    width: calc(100% - 280px); height: 20px;
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #101010;
+}
+
+div#top-bar > div {  display: flex; }
+
+div.top-bar-button {
+    width: 30px; height: 30px;
+    margin: 0px 10px;
+
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 100%;
+    background-color: #000;
+}
+
+input.button {
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+}
+
+input#sign-up-button {
+    margin: 0px 20px;
+    background-color: #0000; color: #fff;
+}
+
+input#sign-in-button {
+    width: 120px; height: 35px;
+    border-radius: 25px;
+}
+
+input.button:hover { transform: scale(1.06); }
+
+/* ========================================= */
+
+div#main {
+    width: calc(100% - 300px); height: calc(100% - 120px);
+    padding: 30px;
+
+    background-color: #1c1c1c;
+}
+
+div.section-title-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2.section-title {
+    margin: 0px;
+    cursor: pointer;
+}
+
+input.section-view-all {
+    margin-bottom: 20px;
+    border: none;
+    background-color: #0000; color: #8c8c8c;
+    font-weight: bold;
+}
+
+h2.section-title:hover, input.section-view-all:hover {
+    text-decoration: underline;
+}
+
+div.album-panel {
+    width: 150px; height: 220px;
+    padding: 15px;
+
+    cursor: pointer;
+
+    border-radius: 5px;
+
+    background-color: #0002;
+}
+
+div.album-panel:hover {
+    background-color: #313131;
+}
+
+img.album-cover {
+    width: 100%;
+    border-radius: 5px;
+}
+
+h3.album-name {
+    font-size: small;
+}
+
+p.album-description {
+    color: #8c8c8c;
+    font-size: small;
+}

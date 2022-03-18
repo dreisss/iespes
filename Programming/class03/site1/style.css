@@ -1,167 +1,65 @@
 
 body {
-    width: 100vw; height: 100vh;
-    margin: 0px; padding: 0px;
+    height: 100vh; margin: 0px;
 
     display: flex;
-    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
 
-    background-color: #000; color: #fff;
-
+    background-color: #121212; color: #fff;
     font-family: Arial;
 }
 
-/* ========================================= */
+div#container {
+    width: 10cm; height: 10.6cm;
 
-div#left-bar {
-    width: 180px; height: calc(100% - 50px);
-    padding: 25px 30px;
-}
+    padding: 1cm 1cm 1.7cm 1cm;
 
-svg#logo { width: 135px; }
-
-div#left-bar-buttons { margin: 0px; }
-
-div#left-bar-buttons > div { margin: 40px 0px; }
-
-div.left-bar-button {
-    margin: 15px 0px;
-
-    cursor: pointer;
-
-    display: flex;
+    display: flex; flex-direction: column;
+    justify-content: space-evenly;
     align-items: center;
 
-    color: #8c8c8c
+    border: 0.5mm solid #343539; border-radius: 2mm;
 }
 
-svg.type1-icon {
-    margin-right: 15px;
-    fill: #8c8c8c;
-}
 
-div.icon-div {
-    width: 24px; height: 24px;
+h2#title { font-size: x-large; font-weight: 520; margin: 4mm 0 0 0; }
 
-    border-radius: 1px;
-    margin-right: 15px;
+h3#subtitle { font-size: medium; font-weight: 500; margin: 2mm 0 8mm 0; }
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+input#email {
+    width: 90%; height: 3mm;
 
-    background-color: #8c8c8c;
-}
+    margin-bottom: 1mm; padding: 6mm;
 
-div.left-bar-button:hover { color:#fff; }
+    font-size: large; font-weight: 500;
 
-div.left-bar-button:hover > svg.type1-icon { fill: #fff; }
-
-div.left-bar-button:hover > div { background-color: #fff; }
-
-/* ========================================= */
-
-div#top-bar {
-    width: calc(100% - 280px); height: 20px;
-    padding: 20px;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    background-color: #101010;
-}
-
-div#top-bar > div {  display: flex; }
-
-div.top-bar-button {
-    width: 30px; height: 30px;
-    margin: 0px 10px;
-
-    cursor: pointer;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    border-radius: 100%;
-    background-color: #000;
-}
-
-input.button {
-    cursor: pointer;
-    border: none;
-    font-weight: bold;
-}
-
-input#sign-up-button {
-    margin: 0px 20px;
     background-color: #0000; color: #fff;
+    border: 1px solid #343539; border-radius: 1.5mm;
 }
 
-input#sign-in-button {
-    width: 120px; height: 35px;
-    border-radius: 25px;
-}
+a, input#create-account { color: #3892ff; font-weight: 550; cursor: pointer; }
 
-input.button:hover { transform: scale(1.06); }
+a#forget-email { align-self: baseline; margin-bottom: 6mm; font-size: medium; }
 
-/* ========================================= */
+p#info { margin-bottom: 7mm; color: #a3a5a2; font-size: medium; }
 
-div#main {
-    width: calc(100% - 300px); height: calc(100% - 120px);
-    padding: 30px;
+div#buttons { width: 100%; display: flex; justify-content: space-between; }
 
-    background-color: #1c1c1c;
-}
+input#create-account {
+    padding: 0;
 
-div.section-title-bar {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-}
+    font-size: medium; font-weight: 500;
 
-h2.section-title {
-    margin: 0px;
-    cursor: pointer;
-}
-
-input.section-view-all {
-    margin-bottom: 20px;
+    background-color: #0000;
     border: none;
-    background-color: #0000; color: #8c8c8c;
-    font-weight: bold;
 }
 
-h2.section-title:hover, input.section-view-all:hover {
-    text-decoration: underline;
-}
+input#next {
+    width: 2.5cm; height: 9mm;
 
-div.album-panel {
-    width: 150px; height: 220px;
-    padding: 15px;
+    font-size: small; font-weight: 550;
 
-    cursor: pointer;
-
-    border-radius: 5px;
-
-    background-color: #0002;
-}
-
-div.album-panel:hover {
-    background-color: #313131;
-}
-
-img.album-cover {
-    width: 100%;
-    border-radius: 5px;
-}
-
-h3.album-name {
-    font-size: small;
-}
-
-p.album-description {
-    color: #8c8c8c;
-    font-size: small;
+    background-color: #2b6fc4; color: #fff;
+    border: none; border-radius: 5px;
 }
