@@ -6,11 +6,13 @@ Below you will find the examples used in programming classes:
   - website used in class 01:
     - [site1](https://dreisss.github.io/Iespes/Programming/class01/site1/) - simple login page
 
-  - websites used in class 02:
+  - website used in class 02 and 03:
     - [site1](https://dreisss.github.io/Iespes/Programming/class02/site1/) - router login interface
-    - [site2](https://dreisss.github.io/Iespes/Programming/class02/site2/) - google login page
-    - [site3](https://dreisss.github.io/Iespes/Programming/class02/site3/) - simple speed test interface
 
   - website to be used in class 03:
-    - [site1](https://dreisss.github.io/Iespes/Programming/class03/site1/) - easy spotify clone
+    - [site1](https://dreisss.github.io/Iespes/Programming/class03/site1/) - google login page
+    - [site2](https://dreisss.github.io/Iespes/Programming/class03/site2/) - simple speed test interface
+    
+  - next classes:
+    - [site1](https://dreisss.github.io/Iespes/Programming/next/site1/) - easy spotify clone
   
