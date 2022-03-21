@@ -14,5 +14,6 @@ Below you will find the examples used in programming classes:
     - [site2](https://dreisss.github.io/Iespes/Programming/class03/site2/) - simple speed test interface
     
   - next classes:
-    - [site1](https://dreisss.github.io/Iespes/Programming/next/site1/) - easy spotify clone
+    - [site1](https://dreisss.github.io/Iespes/Programming/next/spotify/) - easy spotify clone
+    - [site2](https://dreisss.github.io/Iespes/Programming/next/spotify-recursive/) - medium spotify clone
   
