@@ -1,0 +1,32 @@
+
+@media screen and (max-width: 1000px) {
+    #top-bar
+    {
+        width: calc(100% - 272px);
+        padding: 16px;
+    }
+
+    #main-view
+    {
+        width: calc(100% - 272px);
+        padding: 88px 16px 0px 16px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    #main-view::-webkit-scrollbar {
+        width: 2px;
+    }
+
+    .section-view
+    {
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    .album-card
+    {
+        width: 150px;
+    }
+}
