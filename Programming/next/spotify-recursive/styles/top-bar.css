@@ -3,7 +3,6 @@
     width: calc(100vw - 304px);
     height: 32px;
     padding: 16px 32px;
-    gap: 70px;
     position: absolute;
     left: 240px;
     background-color: #0005;

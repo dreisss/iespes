@@ -8,7 +8,7 @@
 
     #main-view
     {
-        width: calc(100% - 272px);
+        min-width: calc(100% - 272px);
         padding: 88px 16px 0px 16px;
     }
 }
@@ -30,7 +30,7 @@
     {
         display: block;
     }
-    
+
     #spotify-logo-mobile
     {
         height: 100%;
@@ -49,25 +49,20 @@
 
     #main-view::-webkit-scrollbar
     {
-        width: 3px;
+        width: 2px;
     }
 
     /* >==========< Section settings >==========< */
-    .section-start
-    {
-        margin-bottom: 5px; 
-    }
-    
     .section-name-a
     {
         font-size: 17px;
     }
-    
+
     .section-view
     {
         gap: 0;
         width: 100vw;
-        margin-bottom: 20px; 
+        margin: 15px 0px;
         overflow: scroll;
     }
 
@@ -84,13 +79,13 @@
     .album-card-image
     {
         border-radius: 0;
-        width: 100%;
     }
 
     .album-card-name
     {
+        margin: 5px;
         width: min-content;
-        font-size: 12px;
+        font-size: 11px;
     }
 
     .album-card:hover
@@ -103,6 +98,6 @@
 @media screen and (min-width: 2000px) {
     .album-card
     {
-        width: 150px;
+        max-width: 150px;
     }
 }

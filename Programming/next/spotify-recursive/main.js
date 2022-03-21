@@ -11,7 +11,6 @@ function getSections(callback) {
 }
 
 const main_view = document.querySelector("#main-view")
-
 var sections = [];
 getSections((text) => { sections = JSON.parse(text); });
 
@@ -21,7 +20,7 @@ function update_main() {
     if (innerWidth < 800) album_number = 2
     if (innerWidth < 700) album_number = 5
 
-    main_view.innerHTML = ""
+    main_view.innerHTML = ""; let sect;
     sections.map(section => {
         main_view.innerHTML += `
         <div class="section-start flex-between-end">
@@ -52,4 +51,4 @@ function update_main() {
 }
 
 window.onresize = update_main
-setTimeout(update_main, 200)
+setTimeout(update_main, 1000)

@@ -8,8 +8,7 @@
 
 #main-view::-webkit-scrollbar
 {
-    width: 10px;
-    height: 100%;
+    width: 8px;
     background-color: #0000;
 }
 
@@ -19,12 +18,6 @@
 }
 
 /* >==========< Section Start settings >==========< */
-.section-start
-{
-    gap: 50px;
-    margin-bottom: 32px;
-}
-
 .section-name-a
 {
     font-size: 22.5px;
@@ -44,8 +37,7 @@
 .section-view
 {
     gap: 24px;
-    height: max-content;
-    margin-bottom: 32px;
+    margin: 32px 0px;
 }
 
 /* >==========< Album Cards >==========< */
@@ -84,9 +76,4 @@
 .album-card:hover
 {
     background-color: #282828;
-}
-
-.album-card-play:hover
-{
-    transform: scale(1.04);
 }
