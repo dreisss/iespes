@@ -17,10 +17,7 @@ getSections(function(text){ sections = JSON.parse(text); });
 
 function update_main() {
 
-    let album_number = 1;
-    console.log(innerWidth)
-
-    album_number = innerWidth / 300
+    let album_number = innerWidth / 300
     if (innerWidth < 800) album_number = 2
     if (innerWidth < 700) album_number = 1
 

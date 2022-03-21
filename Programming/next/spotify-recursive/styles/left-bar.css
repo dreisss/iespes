@@ -2,7 +2,7 @@
 #left-bar-menu
 {
     min-width: 192px;
-    height: calc(100% - 48px);
+    min-height: calc(100% - 48px);
     padding: 24px;
     background-color: #000;
 }
