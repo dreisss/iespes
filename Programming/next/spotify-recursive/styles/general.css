@@ -1,7 +1,13 @@
 
-@import url(//db.onlinewebfonts.com/c/01173b246d9d9ea808ea75a26b3b61bb?family=Circular+Spotify+Tx+T+Black);
+@font-face {
+    font-family: "Circular Spotify";
+    src: url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.eot");
+    src: url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.ttf") format("embedded-opentype"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.woff2") format("woff2"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.woff") format("woff"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.ttf") format("truetype"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.svg") format("svg"); } 
 
-@font-face {font-family: "Circular Spotify Tx T Black"; src: url("//db.onlinewebfonts.com/t/01173b246d9d9ea808ea75a26b3b61bb.eot"); src: url("//db.onlinewebfonts.com/t/01173b246d9d9ea808ea75a26b3b61bb.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/01173b246d9d9ea808ea75a26b3b61bb.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/01173b246d9d9ea808ea75a26b3b61bb.woff") format("woff"), url("//db.onlinewebfonts.com/t/01173b246d9d9ea808ea75a26b3b61bb.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/01173b246d9d9ea808ea75a26b3b61bb.svg#Circular Spotify Tx T Black") format("svg"); }
 
 /* >==========< Generals >==========< */
 
@@ -13,7 +19,7 @@
 *
 {
     margin: 0;
-    font-family: 'Circular Spotify Tx T Black';
+    font-family: 'Circular Spotify';
     text-decoration: none;
     white-space: nowrap;
     color: #fff;
@@ -22,8 +28,8 @@
 
 .flex-body
 {
-    height: 100vh;
     display: flex;
+    height: 100vh;
     overflow: hidden;
     background-image: linear-gradient(rgba(0, 0, 0, 0.842) 0 , #000 100%), var(--background-noise);
 }

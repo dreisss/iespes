@@ -1,6 +1,6 @@
 
 #top-bar {
-    width: calc(100% - 304px);
+    width: calc(100vw - 304px);
     height: 32px;
     padding: 16px 32px;
     gap: 70px;
@@ -12,6 +12,12 @@
 .top-bar-div
 {
     gap: 16px;
+}
+
+/* >==========< Header Logo >==========< */
+#logo-a-mobile
+{
+    display: none;
 }
 
 /* >==========< Buttons undo redo >==========< */

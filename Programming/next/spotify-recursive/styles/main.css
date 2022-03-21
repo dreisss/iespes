@@ -1,9 +1,9 @@
 
 #main-view
 {
-    width: calc(100% - 304px);
     padding: 88px 32px 0px 32px;
-    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 #main-view::-webkit-scrollbar
@@ -21,7 +21,7 @@
 /* >==========< Section Start settings >==========< */
 .section-start
 {
-    gap: 350px;
+    gap: 50px;
     margin-bottom: 32px;
 }
 
@@ -44,7 +44,6 @@
 .section-view
 {
     gap: 24px;
-    width: 100%;
     height: max-content;
     margin-bottom: 32px;
 }

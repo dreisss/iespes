@@ -13,13 +13,13 @@ function getSections(callback) {
 const main_view = document.querySelector("#main-view")
 
 var sections = [];
-getSections(function(text){ sections = JSON.parse(text); });
+getSections((text) => { sections = JSON.parse(text); });
 
 function update_main() {
 
     let album_number = innerWidth / 300
     if (innerWidth < 800) album_number = 2
-    if (innerWidth < 700) album_number = 1
+    if (innerWidth < 700) album_number = 5
 
     main_view.innerHTML = ""
     sections.map(section => {
@@ -48,9 +48,8 @@ function update_main() {
                 <p class="album-card-description">${section.albums[i].description}</p>
             </div>`
         }
-
     })
 }
 
 window.onresize = update_main
-window.onload = update_main
+setTimeout(update_main, 200)
