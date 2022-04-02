@@ -1,15 +1,23 @@
-### Examples showed to students on Arduino classes.
+## **_Arduino examples:_**
 
-See the code and schematics here:
+Here is the content used in basic eletronics classes. This examples were used to introduce students in 'Arduino World' and how it works. After them we started the main project: [**Arduino Car**](https://github.com/dreisss/Arduino-Car).
 
-- Examples 01:
-    - [serial](./exs01/serial/)
-    - [blink](./exs01/blink)
-    - [fade](./exs01/fade/)
-    - [distance](./exs01/distance/)
-    - [servo_pot](./exs01/servo_pot/)
+<div align="center">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+</div>
 
-- Examples 02:
-    - [semaphore](./exs02/semaphore/)
-    - [tone](./exs02/tone/)
-    - [lcd](./exs02/lcd/)
+---
+
+### **_Examples 01:_**
+
+- [**Serial**](./exs01/serial/) - Print the classic "Hello World!" on serial terminal
+- [**Blink**](./exs01/blink) - Blink a led connected to arduino
+- [**Fade**](./exs01/fade/) - Blink with fade a led connected to arduino
+- [**Distance**](./exs01/distance/) - Calculate and prints the distance using a ultrasonic sensor
+- [**Servo_pot**](./exs01/servo_pot/) - Control a motor servo with a potentiometer
+
+### **_Examples 02:_**
+
+- [**Semaphore**](./exs02/semaphore/) - A simple semaphore
+- [**Tone**](./exs02/tone/) - Play sound with a speaker
+- [**Lcd**](./exs02/lcd/) - Print something on lcd screen

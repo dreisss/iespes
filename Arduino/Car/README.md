@@ -1,3 +1,1 @@
-### **_Obs:_**
-
-This project is on another repository. Click [here](https://github.com/davi32b8/arduino-car) to access it.
+⚠ This project is on another repository. Click [here](https://github.com/dreisss/Arduino-Car) to see it.
