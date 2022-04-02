@@ -4,8 +4,6 @@
 
 This repository is intended to save and organize projects made in [Iespes](https://www.iespes.com.br) Computers Network course from 2020 to 2023. In this period I've worked as assistant professor/tutor in programming and eletronics classes and monitored computer labs as well.
 
----
-
 ## **_Arduino:_** <img align="center" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 This section is focused on **Arduino Car Project** and **Basic Eletronics Classes**, below you can find the content:
