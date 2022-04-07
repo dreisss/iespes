@@ -1,28 +1,30 @@
 function getSections(callback) {
-    var rawFile = new XMLHttpRequest();
-    rawFile.overrideMimeType("application/json");
-    rawFile.open("GET", "./data.json", true);
-    rawFile.onreadystatechange = function() {
-        if (rawFile.readyState === 4 && rawFile.status == "200") {
-            callback(rawFile.responseText);
-        }
+  var rawFile = new XMLHttpRequest();
+  rawFile.overrideMimeType("application/json");
+  rawFile.open("GET", "./data.json", true);
+  rawFile.onreadystatechange = function () {
+    if (rawFile.readyState === 4 && rawFile.status == "200") {
+      callback(rawFile.responseText);
     }
-    rawFile.send(null);
+  };
+  rawFile.send(null);
 }
 
-const main_view = document.querySelector("#main-view")
+const main_view = document.querySelector("#main-view");
 var sections = [];
-getSections((text) => { sections = JSON.parse(text); });
+getSections((text) => {
+  sections = JSON.parse(text);
+});
 
 function update_main() {
+  let album_number = innerWidth / 300;
+  if (innerWidth < 800) album_number = 2;
+  if (innerWidth < 700) album_number = 5;
 
-    let album_number = innerWidth / 300
-    if (innerWidth < 800) album_number = 2
-    if (innerWidth < 700) album_number = 5
-
-    main_view.innerHTML = ""; let sect;
-    sections.map(section => {
-        main_view.innerHTML += `
+  main_view.innerHTML = "";
+  let sect;
+  sections.map((section) => {
+    main_view.innerHTML += `
         <div class="section-start flex-between-end">
             <a href="" class="section-name-a">
                 ${section.name}
@@ -33,22 +35,21 @@ function update_main() {
             </a>
         </div>
 
-        <section class="section-view flex-row-baseline"></section>`
+        <section class="section-view flex-row-baseline"></section>`;
 
-        sect = main_view.lastChild
-        for (let i = 0; i < album_number && section.albums[i]; i++)
-        {
-            sect.innerHTML += `
+    sect = main_view.lastChild;
+    for (let i = 0; i < album_number && section.albums[i]; i++) {
+      sect.innerHTML += `
             <div class="album-card flex-column-center">
                 <img src="${section.albums[i]["image-src"]}" class="album-card-image">
 
                 <h4 class="album-card-name">${section.albums[i].name}</h4>
 
                 <p class="album-card-description">${section.albums[i].description}</p>
-            </div>`
-        }
-    })
+            </div>`;
+    }
+  });
 }
 
-window.onresize = update_main
-setTimeout(update_main, 1000)
+window.onresize = update_main;
+setTimeout(update_main, 1000);

@@ -1,77 +1,68 @@
-
-#left-bar-menu
-{
-    min-width: 192px;
-    height: calc(100vh - 48px);
-    padding: 24px;
-    background-color: #000;
+#left-bar-menu {
+  min-width: 192px;
+  height: calc(100vh - 48px);
+  padding: 24px;
+  background-color: #000;
 }
 
-#left-bar-menu-div-1
-{
-    margin-bottom: 24px;
+#left-bar-menu-div-1 {
+  margin-bottom: 24px;
 }
 
 /* >==========< Logo settings >==========< */
-#logo-a
-{
-    height: 47px;
-    margin-bottom: 18px;
+#logo-a {
+  height: 47px;
+  margin-bottom: 18px;
 }
 
 #spotify-logo {
-    width: 131px;
+  width: 131px;
 }
 
 /* >==========< Buttons general settings >==========< */
-.left-bar-menu-button
-{
-    height: 40px;
-    gap: 16px;
+.left-bar-menu-button {
+  height: 40px;
+  gap: 16px;
 }
 
-.left-bar-menu-button > span
-{
-    font-size: 13.125px;
-    color: #b3b3b3;
+.left-bar-menu-button > span {
+  font-size: 13.125px;
+  color: #b3b3b3;
 }
 
 .left-bar-menu-button:hover > span {
-    color: #fff;
+  color: #fff;
 }
 
 /* >==========< Buttons type 1 >==========< */
 .type1-icon {
-    fill: #b3b3b3;
+  fill: #b3b3b3;
 }
 
 .left-bar-menu-button:hover > .type1-icon {
-    fill: #fff;
+  fill: #fff;
 }
 
 /* >==========< Buttons type 2 >==========< */
 
 .div-type2-button {
-    width: 24px;
-    height: 24px;
-    background-color: #b3b3b3;
+  width: 24px;
+  height: 24px;
+  background-color: #b3b3b3;
 }
 
-#div-type2-button-2
-{
-    background-image: linear-gradient( 135deg, #450af5, #c4efd9);
+#div-type2-button-2 {
+  background-image: linear-gradient(135deg, #450af5, #c4efd9);
 }
 
 #type2-icon2 {
-    fill: #fff;
+  fill: #fff;
 }
 
-.left-bar-menu-button:hover > #div-type2-button-1
-{
-    background-color: #fff;
+.left-bar-menu-button:hover > #div-type2-button-1 {
+  background-color: #fff;
 }
 
-.left-bar-menu-button:hover > #div-type2-button-2
-{
-    background-image: linear-gradient(135deg, #602ff1, #d9e9e1);
+.left-bar-menu-button:hover > #div-type2-button-2 {
+  background-image: linear-gradient(135deg, #602ff1, #d9e9e1);
 }

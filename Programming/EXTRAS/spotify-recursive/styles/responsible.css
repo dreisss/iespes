@@ -1,103 +1,90 @@
-
 @media screen and (max-width: 1000px) {
-    #top-bar
-    {
-        min-width: calc(100% - 272px);
-        padding: 16px;
-    }
+  #top-bar {
+    min-width: calc(100% - 272px);
+    padding: 16px;
+  }
 
-    #main-view
-    {
-        min-width: calc(100% - 272px);
-        padding: 88px 16px 0px 16px;
-    }
+  #main-view {
+    min-width: calc(100% - 272px);
+    padding: 88px 16px 0px 16px;
+  }
 }
-
 
 @media screen and (max-width: 700px) {
-    /* >==========< General settings >==========< */
-    .flex-body
-    {
-        background-image: linear-gradient(135deg, #2255ff, #000e, #000);
-    }
+  /* >==========< General settings >==========< */
+  .flex-body {
+    background-image: linear-gradient(135deg, #2255ff, #000e, #000);
+  }
 
-    #left-bar-menu, #undo-redo-div, #sign-log-in-div, .see-all-a, .album-card-description, .section-view::-webkit-scrollbar
-    {
-        display: none;
-    }
+  #left-bar-menu,
+  #undo-redo-div,
+  #sign-log-in-div,
+  .see-all-a,
+  .album-card-description,
+  .section-view::-webkit-scrollbar {
+    display: none;
+  }
 
-    #logo-a-mobile
-    {
-        display: block;
-    }
+  #logo-a-mobile {
+    display: block;
+  }
 
-    #spotify-logo-mobile
-    {
-        height: 100%;
-    }
+  #spotify-logo-mobile {
+    height: 100%;
+  }
 
-    #top-bar, #main-view
-    {
-        width: calc(100% - 32px);
-        left: 0px;
-    }
+  #top-bar,
+  #main-view {
+    width: calc(100% - 32px);
+    left: 0px;
+  }
 
-    #top-bar
-    {
-        background-color: #112a79;
-    }
+  #top-bar {
+    background-color: #112a79;
+  }
 
-    #main-view::-webkit-scrollbar
-    {
-        width: 2px;
-    }
+  #main-view::-webkit-scrollbar {
+    width: 2px;
+  }
 
-    /* >==========< Section settings >==========< */
-    .section-name-a
-    {
-        font-size: 17px;
-    }
+  /* >==========< Section settings >==========< */
+  .section-name-a {
+    font-size: 17px;
+  }
 
-    .section-view
-    {
-        gap: 0;
-        width: 100vw;
-        margin: 15px 0px;
-        overflow: scroll;
-    }
+  .section-view {
+    gap: 0;
+    width: 100vw;
+    margin: 15px 0px;
+    overflow: scroll;
+  }
 
-    /* >==========< Album card settings >==========< */
+  /* >==========< Album card settings >==========< */
 
-    .album-card
-    {
-        min-width: 100px;
-        margin-right: 24px;
-        padding: 0;
-        background-color: #0000;
-    }
+  .album-card {
+    min-width: 100px;
+    margin-right: 24px;
+    padding: 0;
+    background-color: #0000;
+  }
 
-    .album-card-image
-    {
-        border-radius: 0;
-    }
+  .album-card-image {
+    border-radius: 0;
+  }
 
-    .album-card-name
-    {
-        margin: 5px;
-        width: min-content;
-        font-size: 11px;
-    }
+  .album-card-name {
+    margin: 5px;
+    width: min-content;
+    font-size: 11px;
+  }
 
-    .album-card:hover
-    {
-        background-color: #0000;
-    }
+  .album-card:hover {
+    background-color: #0000;
+  }
 }
 
-
 @media screen and (min-width: 2000px) {
-    .album-card
-    {
-        max-width: 150px;
-    }
+  .album-card {
+    max-width: 150px;
+  }
 }

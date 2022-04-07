@@ -1,394 +1,387 @@
 [
-    {
+  {
     "name": "Domingo delícia",
-        "albums":
-        [
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            }
-        ]
-    },
-    {
+    "albums": [
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      }
+    ]
+  },
+  {
     "name": "Domingo delícia",
-        "albums":
-        [
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            }
-        ]
-    },
-    {
+    "albums": [
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      }
+    ]
+  },
+  {
     "name": "Domingo delícia",
-        "albums":
-        [
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            }
-        ]
-    },
-    {
+    "albums": [
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      }
+    ]
+  },
+  {
     "name": "Domingo delícia",
-        "albums":
-        [
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            }
-        ]
-    },
-    {
+    "albums": [
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      }
+    ]
+  },
+  {
     "name": "Domingo delícia",
-        "albums":
-        [
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            }
-        ]
-    },
-    {
+    "albums": [
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      }
+    ]
+  },
+  {
     "name": "Domingo delícia",
-        "albums":
-        [
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            }
-        ]
-    },
-    {
+    "albums": [
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      }
+    ]
+  },
+  {
     "name": "Domingo delícia",
-        "albums":
-        [
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            },
-            {
-                "name": "Top Brasil",
-                "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
-                "image-src": "./images/top-brasil.jpg"
-            }
-        ]
-    }
+    "albums": [
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      },
+      {
+        "name": "Top Brasil",
+        "description": "Luan Santana e os maiores hits do país. O que tá bombando tá aqui",
+        "image-src": "./images/top-brasil.jpg"
+      }
+    ]
+  }
 ]

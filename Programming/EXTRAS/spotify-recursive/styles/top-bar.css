@@ -1,55 +1,49 @@
-
 #top-bar {
-    width: calc(100vw - 304px);
-    height: 32px;
-    padding: 16px 32px;
-    position: absolute;
-    left: 240px;
-    background-color: #0005;
+  width: calc(100vw - 304px);
+  height: 32px;
+  padding: 16px 32px;
+  position: absolute;
+  left: 240px;
+  background-color: #0005;
 }
 
-.top-bar-div
-{
-    gap: 16px;
+.top-bar-div {
+  gap: 16px;
 }
 
 /* >==========< Header Logo >==========< */
-#logo-a-mobile
-{
-    display: none;
+#logo-a-mobile {
+  display: none;
 }
 
 /* >==========< Buttons undo redo >==========< */
 .undo-redo-a {
-    width: 32px;
-    height: 32px;
+  width: 32px;
+  height: 32px;
 
-    background-color: rgba(0,0,0,.7);
-    border-radius: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 100%;
 }
 
 .undo-redo-icon {
-    fill: rgba(255,255,255,.5);
+  fill: rgba(255, 255, 255, 0.5);
 }
 
 /* >==========< Buttons sign/log-in >==========< */
-.top-bar-button
-{
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 1.73px;
+.top-bar-button {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.73px;
 }
 
-#log-in-a
-{
-    width: 129.39px;
-    height: 38px;
-    background-color: #fff;
-    border-radius: 500px;
-    color: #181818;
+#log-in-a {
+  width: 129.39px;
+  height: 38px;
+  background-color: #fff;
+  border-radius: 500px;
+  color: #181818;
 }
 
-.top-bar-button:hover
-{
-    transform: scale(1.06);
+.top-bar-button:hover {
+  transform: scale(1.06);
 }

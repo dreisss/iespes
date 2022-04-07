@@ -1,74 +1,70 @@
-
 @font-face {
-    font-family: "Circular Spotify";
-    src: url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.eot");
-    src: url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.ttf") format("embedded-opentype"),
-    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.woff2") format("woff2"),
-    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.woff") format("woff"),
-    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.ttf") format("truetype"),
-    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.svg") format("svg"); }
-
+  font-family: "Circular Spotify";
+  src: url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.eot");
+  src: url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.ttf")
+      format("embedded-opentype"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.woff2")
+      format("woff2"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.woff")
+      format("woff"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.ttf")
+      format("truetype"),
+    url("../font/CircularSpotifyTxT-Black/@font-face/01173b246d9d9ea808ea75a26b3b61bb.svg")
+      format("svg");
+}
 
 /* >==========< Generals >==========< */
 
-:root
-{
-    --background-noise: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIj48ZmlsdGVyIGlkPSJhIiB4PSIwIiB5PSIwIj48ZmVUdXJidWxlbmNlIHR5cGU9ImZyYWN0YWxOb2lzZSIgYmFzZUZyZXF1ZW5jeT0iLjc1IiBzdGl0Y2hUaWxlcz0ic3RpdGNoIi8+PGZlQ29sb3JNYXRyaXggdHlwZT0ic2F0dXJhdGUiIHZhbHVlcz0iMCIvPjwvZmlsdGVyPjxwYXRoIGZpbHRlcj0idXJsKCNhKSIgb3BhY2l0eT0iLjA1IiBkPSJNMCAwaDMwMHYzMDBIMHoiLz48L3N2Zz4=");
+:root {
+  --background-noise: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIj48ZmlsdGVyIGlkPSJhIiB4PSIwIiB5PSIwIj48ZmVUdXJidWxlbmNlIHR5cGU9ImZyYWN0YWxOb2lzZSIgYmFzZUZyZXF1ZW5jeT0iLjc1IiBzdGl0Y2hUaWxlcz0ic3RpdGNoIi8+PGZlQ29sb3JNYXRyaXggdHlwZT0ic2F0dXJhdGUiIHZhbHVlcz0iMCIvPjwvZmlsdGVyPjxwYXRoIGZpbHRlcj0idXJsKCNhKSIgb3BhY2l0eT0iLjA1IiBkPSJNMCAwaDMwMHYzMDBIMHoiLz48L3N2Zz4=");
 }
 
-*
-{
-    margin: 0;
-    font-family: 'Circular Spotify';
-    text-decoration: none;
-    white-space: nowrap;
-    color: #fff;
-    user-select: none;
+* {
+  margin: 0;
+  font-family: "Circular Spotify";
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+  user-select: none;
 }
 
-.flex-body
-{
-    display: flex;
-    height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.842) 0 , #000 100%), var(--background-noise);
+.flex-body {
+  display: flex;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.842) 0, #000 100%),
+    var(--background-noise);
 }
 
-.flex-center
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.flex-between-center
-{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.flex-between-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.flex-between-end
-{
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+.flex-between-end {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
-.flex-row-baseline
-{
-    display: flex;
-    align-items: center;
+.flex-row-baseline {
+  display: flex;
+  align-items: center;
 }
 
-.flex-column-baseline
-{
-    display: flex;
-    flex-flow: column;
+.flex-column-baseline {
+  display: flex;
+  flex-flow: column;
 }
 
-.flex-column-center
-{
-    display: flex;
-    flex-flow: column;
-    align-items: center;
+.flex-column-center {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
 }
