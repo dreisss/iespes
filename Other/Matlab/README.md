@@ -1,4 +1,4 @@
-## **Matlab Scripts:\_**
+## **_Matlab Scripts:_**
 
 Some scripts made using matlab language to 'help' my teacher.
 
@@ -8,7 +8,7 @@ Some scripts made using matlab language to 'help' my teacher.
 
 ---
 
-### **_[List 01](./list01/list01.pdf):_**
+### **_[List 01](./list01/list01.pdf): - I/O e operadores matemáticos_**
 
 - [**ex01**](./list01/ex01.m)
 - [**ex02**](./list01/ex02.m)
@@ -16,7 +16,7 @@ Some scripts made using matlab language to 'help' my teacher.
 - [**ex04**](./list01/ex04.m)
 - [**ex05**](./list01/ex05.m)
 
-### **_[List 02](./list02/list02.pdf):_**
+### **_[List 02](./list02/list02.pdf): - Desvio Condicional_**
 
 - [**ex01**](./list02/ex01.m)
 - [**ex02**](./list02/ex02.m)
@@ -24,10 +24,20 @@ Some scripts made using matlab language to 'help' my teacher.
 - [**ex04**](./list02/ex04.m)
 - [**ex05**](./list02/ex05.m)
 
-### **_[List 03](./list03/list03.pdf):_**
+### **_[List 03](./list03/list03.pdf): - Laços de Repetição_**
 
-- [**ex01**](./list02/ex01.m)
-- [**ex02**](./list02/ex02.m)
-- [**ex03**](./list02/ex03.m)
-- [**ex04**](./list02/ex04.m)
-- [**ex05**](./list02/ex05.m)
+- [**ex01**](./list03/ex01.m)
+- [**ex02**](./list03/ex02.m)
+- [**ex03**](./list03/ex03.m)
+- [**ex04**](./list03/ex04.m)
+- [**ex05**](./list03/ex05.m)
+- [**ex06**](./list03/ex06.m)
+- [**ex07**](./list03/ex07.m)
+- [**ex08**](./list03/ex08.m)
+- [**ex09**](./list03/ex09.m)
+- [**ex10**](./list03/ex10.m)
+- [**ex11**](./list03/ex11.m)
+- [**ex12**](./list03/ex12.m)
+- [**ex13**](./list03/ex13.m)
+- [**ex14**](./list03/ex14.m)
+- [**ex15**](./list03/ex15.m)

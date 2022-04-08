@@ -16,7 +16,7 @@ for i = 1:5
 
   if (numeros(i) > maior_numero)
     maior_numero = numeros(i);
-  elseif (numeros(i) < maior_numero)
+  elseif (numeros(i) < menor_numero)
     menor_numero = numeros(i);
   end
 

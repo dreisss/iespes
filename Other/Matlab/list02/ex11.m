@@ -3,7 +3,7 @@
 
 numero = input('Digite um número inteiro: ');
 
-if (mod(numero, 2) == 0)
+if (rem(numero, 2) == 0)
   disp('O número é Par.')
 else
   disp('O número é Impar.')
