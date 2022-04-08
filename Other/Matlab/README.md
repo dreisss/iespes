@@ -36,8 +36,3 @@ Some scripts made using matlab language to 'help' my teacher.
 - [**ex08**](./list03/ex08.m)
 - [**ex09**](./list03/ex09.m)
 - [**ex10**](./list03/ex10.m)
-- [**ex11**](./list03/ex11.m)
-- [**ex12**](./list03/ex12.m)
-- [**ex13**](./list03/ex13.m)
-- [**ex14**](./list03/ex14.m)
-- [**ex15**](./list03/ex15.m)
