@@ -23,6 +23,16 @@ Some scripts made using matlab language to 'help' my teacher.
 - [**ex03**](./list02/ex03.m)
 - [**ex04**](./list02/ex04.m)
 - [**ex05**](./list02/ex05.m)
+- [**ex01**](./list02/ex06.m)
+- [**ex02**](./list02/ex07.m)
+- [**ex03**](./list02/ex08.m)
+- [**ex04**](./list02/ex09.m)
+- [**ex05**](./list02/ex10.m)
+- [**ex01**](./list02/ex11.m)
+- [**ex02**](./list02/ex12.m)
+- [**ex03**](./list02/ex13.m)
+- [**ex04**](./list02/ex14.m)
+- [**ex05**](./list02/ex15.m)
 
 ### **_[List 03](./list03/list03.pdf): - Laços de Repetição_**
 
