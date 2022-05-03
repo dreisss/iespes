@@ -14,7 +14,7 @@ while (true)
     data = [data; student];
 
   elseif (action == 'm')
-    disp(data)
+    disp(data);
 
   elseif (action == 's')
     break
