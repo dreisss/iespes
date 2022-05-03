@@ -6,9 +6,9 @@
 ano_de_nascimento = input('Digite o seu ano de nascimento: ');
 ano_atual = input('Digite o ano atual: ');
 
-sprintf('Você tem %i anos de idade e terá %i em 2035.', idade_atual, idade_2035)
+sprintf('Você tem %i anos de idade e terá %i em 2035.', idades(ano_de_nascimento, ano_atual))
 
-function [idade_atual, idade_2035] = idades(ano_de_nascimento, ano_atual)
-  idade_atual = (ano_atual - ano_de_nascimento);
-  idade_2035 = (2035 - ano_de_nascimento);
+function [output1, output2] = idades(ano_de_nascimento, ano_atual)
+  output1 = (ano_atual - ano_de_nascimento);
+  output2 = (2035 - ano_de_nascimento);
 end

@@ -5,23 +5,23 @@
 % um terceiro, o quadrado deste terceiro número é exatamente o número
 % original de quatro dígitos. Por exemplo:
 % 2025 -> dividindo: 20 e 25 -> somando temos 45 -> 45^2 = 2025
-
+%
 % Escreva um programa para ler um número e verificar se ele obedece a esta
 % característica. Caso ele obedeça escreva a saída do programa conforme o
 % exemplo acima.
 
 numero = input('Digite um número de 4 dígitos: ');
 
-sprintf('Esse número %s a regra', obedece)
+sprintf('Esse número %s a regra', obedece(numero))
 
-function obedece = obedece(numero)
+function output = obedece(numero)
 
   resultado = pow2(fix(numero / 100) + rem(numero, 100));
 
   if (resultado == numero)
-    obedece = 'obedece';
+    output = 'obedece';
   else
-    obedece = 'não obedece';
+    output = 'não obedece';
   end
 
 end

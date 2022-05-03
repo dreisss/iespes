@@ -4,7 +4,7 @@
 for i = 1:100
 
   if (rem(i, 2) ~= 0)
-    disp(i)
+    disp(i);
   end
 
 end

@@ -18,7 +18,7 @@ while (contador < 10)
   end
 
   if (e_primo)
-    disp(numero)
+    disp(numero);
     soma = soma + numero;
     contador = contador + 1;
   end

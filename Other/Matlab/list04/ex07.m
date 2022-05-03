@@ -29,7 +29,7 @@ for i = 1:6
 end
 
 if (equals == 6)
-  disp('Você acertou 6 e é o ganhador!!')
+  disp('Você acertou 6 e é o ganhador!!');
 
 else
   sprintf('Você acertou %i números dessa vez.', equals)

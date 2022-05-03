@@ -8,4 +8,4 @@ for i = 1:10
 
 end
 
-disp(vector)
+disp(vector);

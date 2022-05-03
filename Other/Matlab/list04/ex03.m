@@ -9,4 +9,4 @@ for i = 1:10
 
 end
 
-disp(vector(1:2:10))
+disp(vector(1:2:10));

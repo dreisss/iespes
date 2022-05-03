@@ -18,6 +18,6 @@ for i = 1:10
 
 end
 
-disp(vector1)
-disp(vector2)
-disp(vector1 + vector2)
+disp(vector1);
+disp(vector2);
+disp(vector1 + vector2);

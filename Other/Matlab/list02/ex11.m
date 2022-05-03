@@ -4,7 +4,7 @@
 numero = input('Digite um número inteiro: ');
 
 if (rem(numero, 2) == 0)
-  disp('O número é Par.')
+  disp('O número é Par.');
 else
-  disp('O número é Impar.')
+  disp('O número é Impar.');
 end

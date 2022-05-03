@@ -10,5 +10,5 @@ if tipo_temperatura == 'F'
 elseif tipo_temperatura == 'C'
   sprintf('A temperatura em °F é %.4f', (temperatura * 9/5) + 32)
 else
-  disp('Tipo de temperatura inválido!')
+  disp('Tipo de temperatura inválido!');
 end

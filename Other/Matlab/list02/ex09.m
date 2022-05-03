@@ -14,5 +14,5 @@ media = (2 * nota1 + 3 * nota2 + 5 * nota3) / 10;
 sprintf('A Média Final do %s foi de %.2f.', nome_do_aluno, media)
 
 if (media >= 6)
-  disp('APROVADO')
+  disp('APROVADO');
 end
