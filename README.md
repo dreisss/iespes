@@ -1,27 +1,14 @@
-# **_Iespes_** 👨‍🎓
+<div align="center">
+  <img height="64px" src=".github/images/iespes-logo.png">
+</div>
 
-## **_About:_**
+| <img height="28px" src=".github/images/mini-iespes-logo.png" /> | Repository to save and organize [Iespes](https://www.iespes.com.br) projects/things |
+| :-------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 
-This repository is intended to save and organize projects made in [Iespes](https://www.iespes.com.br) Computers Network course from 2020 to 2023. In this period I've worked as assistant professor/tutor in programming and eletronics classes and monitored computer labs as well.
+Projects made when I was in Iespes Computer Network course(2021 - 2023). In this period I worked as **tutor/assistant professor** and **computer labs monitor**.
 
-## **_Arduino:_** <img align="center" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+They are divided into some sections by context, see below:
 
-This section is focused on **Arduino Car Project** and **Basic Eletronics Classes**, below you can find the content:
-
-- [**Car Project**](https://github.com/dreisss/Arduino-Car)
-- [**Arduino Car Control**](https://github.com/dreisss/control-App)
-- [**Some Examples**](./Arduino/Examples/)
-
-## **_Programming:_** <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" width="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-Below see the content used in **Programming Classes**:
-
-- [**HTML/CSS Examples**](./Programming/HTML-CSS)
-- [**JavaScript Examples**](./Programming/JS)
-- [**Extra**](./Programming/EXTRAS/)
-
-## **_Other:_** <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-
-Other things made at Iespes:
-
-- [**Matlab Scripts**](./Other/Matlab/)
+|                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <h3><b><i> Arduino: </b></i> <img align="center" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> </h3> The **Arduino** and **Basic Eletronics** Projects: <br> [**Car Project**](https://github.com/dreisss/Arduino-Car) <br> [**Arduino Car Control**](https://github.com/dreisss/control-App) <br> [**Simple Code Examples**](./Arduino/Examples/) | <h3><b><i> Programming: </i></b> <img align="center" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </h3> Content used to <b>Programming</b>: <br> [**HTML/CSS Examples**](./Programming/HTML-CSS) <br> [**JavaScript Examples**](./Programming/JS) <br> [**Extra**](./Programming/EXTRAS/) | <h3><b><i> Other: </i></b> <img align="center" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> </h3> Some other things made at Iespes: <br> [**Matlab Scripts**](./Other/Matlab/) |
