@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="64px" src=".github/images/iespes-logo.png">
+  <img height="64px" src=".github/images/logo-iespes.svg">
 </div>
 
 <br>
 
-| <img height="28px" src=".github/images/mini-iespes-logo.png" /> | Repository to save and organize [Iespes](https://www.iespes.com.br) projects/things |
+| <img height="28px" src=".github/images/logo-iespes-mini.svg" /> | Repository to save and organize [Iespes](https://www.iespes.com.br) projects/things |
 | :-------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 
 Projects made when I was in Iespes Computer Network course(2021 - 2023). In this period I worked as **tutor/assistant professor** and **computer labs monitor**.
