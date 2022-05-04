@@ -2,6 +2,8 @@
   <img height="64px" src=".github/images/iespes-logo.png">
 </div>
 
+<br>
+
 | <img height="28px" src=".github/images/mini-iespes-logo.png" /> | Repository to save and organize [Iespes](https://www.iespes.com.br) projects/things |
 | :-------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 
