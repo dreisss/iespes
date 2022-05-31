@@ -24,6 +24,6 @@ void loop()
     gateState = (gateState == OPEN) ? CLOSED : OPEN;
   }
 
-  servo.write(100 * gateState);
+  servo.write(110 * gateState);
   delay(100);
 }
