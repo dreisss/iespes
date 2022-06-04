@@ -15,14 +15,14 @@ They are divided in some sections by context, see below:
   <tr>
     <th>
       <h3>
-        "Programming":
+        <b> "Programming": </b>
         <img align="center" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         <img align="center" height="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       </h3>
     </th>
     <th>
       <h3>
-        Arduino:
+        <b> Arduino: </b>
         <img align="center" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
       </h3>
     </th>
@@ -49,7 +49,7 @@ They are divided in some sections by context, see below:
   <tr>
     <th>
       <h3>
-        Other:
+        <b> Other: </b>
         <img align="center" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
       </h3>
     </th>
@@ -63,7 +63,7 @@ They are divided in some sections by context, see below:
         <b> Matlab Scripts </b> <br>
       </a>
       <a href="./Other/Scripts/Windows/">
-        <b> Windows Scripts </b>
+        <b> Windows Scripts </b> <br>
       </a>
       <a href="./Other/Scripts/Linux/">
         <b> Linux Scripts </b>

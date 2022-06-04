@@ -1,6 +1,6 @@
-## [**_Arduino examples:_**](#)
+## [**_ARDUINO EXAMPLES:_**](#)
 
-Here is the content used in basic eletronics classes. This examples were used to introduce students in 'Arduino World' and how it works. After them we started the main project: [**Arduino Car**](https://github.com/dreisss/Arduino-Car).
+Here is the content we used in basic electronics classes. These examples were made to introduce students to 'Arduino World' and how it works. After this, we started to make two main projects: Arduino Car and Smart House. Unfortunately, we were unable to finish due to 'other factors'.
 
 <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
@@ -8,7 +8,7 @@ Here is the content used in basic eletronics classes. This examples were used to
 
 ---
 
-### **_Examples 01:_**
+### **_EXAMPLES 01:_**
 
 - [**Serial**](./exs01/serial/) - Print the classic "Hello World!" on serial terminal
 - [**Blink**](./exs01/blink) - Blink a led connected to arduino
@@ -16,7 +16,7 @@ Here is the content used in basic eletronics classes. This examples were used to
 - [**Distance**](./exs01/distance/) - Calculate and prints the distance using a ultrasonic sensor
 - [**Servo_pot**](./exs01/servo_pot/) - Control a motor servo with a potentiometer
 
-### **_Examples 02:_**
+### **_EXAMPLES 02:_**
 
 - [**Semaphore**](./exs02/semaphore/) - A simple semaphore
 - [**Tone**](./exs02/tone/) - Play sound with a speaker
