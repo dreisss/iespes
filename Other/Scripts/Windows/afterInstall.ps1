@@ -19,24 +19,36 @@ function formatNumber {
 function setNetworkConfigs {
   param ( [hashtable]$settings )
 
-  Write-Host "Changing Network Configs..." -ForegroundColor Green
+  Write-Host "Changing network configs..." -ForegroundColor Green
   New-NetIPAddress -InterfaceAlias "Ethernet" -AddressFamily "ipv4" -IPAddress "$($settings.addressIPV4)" -PrefixLength 24 -DefaultGateway "$($settings.defaultGateway)"
-  Set-DnsClientServerAddress -InterfaceAlias "Ethernet" -ServerAddresses ("$($settings.primaryDNS)", "$($settings.secondaryDNS)") -PassThru
+  Set-DnsClientServerAddress -InterfaceAlias "Ethernet" -ServerAddresses ("$($settings.primaryDNS)", "$($settings.secondaryDNS)")
 }
 
 function setComputerName {
   param ( [hashtable]$settings )
 
-  Write-Host "Renaming Computer..." -ForegroundColor Green
-  Rename-Computer -NewName "$($settings.computerName)" -PassThru
+  Write-Host "Renaming computer..." -ForegroundColor Green
+  Rename-Computer -NewName "$($settings.computerName)"
 }
 
 function createDefaultUser {
   param ( [hashtable]$settings )
 
-  Write-Host "Creating default User..." -ForegroundColor Green
+  Write-Host "Creating default user..." -ForegroundColor Green
   New-LocalUser -Name "$($settings.defaultUserName)" -NoPassword -UserMayNotChangePassword -AccountNeverExpires
   Add-LocalGroupMember -SID "S-1-5-32-545" -Member "$($settings.defaultUserName)"
+}
+
+function runScript {
+  param( [hashtable]$settings )
+
+  if ($settings.runScript -eq $true) {
+    Write-Host "Running script..." -ForegroundColor Green
+    Start-Process -FilePath "./optimize.bat" -NoNewWindow
+  }
+  else {
+    Write-Host "Skipping script..." -ForegroundColor Green
+  }
 }
 
 # <--> <--> Running <--> <-->
@@ -75,4 +87,7 @@ $configs.optimize
 Write-Host "Press any key to continue." -ForegroundColor Green
 [Console]::ReadKey()
 
+setNetworkConfigs($configs.network)
+setComputerName($configs.general)
 createDefaultUser($configs.general)
+runScript($configs.optimize)
