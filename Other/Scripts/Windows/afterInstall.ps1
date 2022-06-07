@@ -36,7 +36,7 @@ function createDefaultUser {
 
   Write-Host "Creating default User..." -ForegroundColor Green
   New-LocalUser -Name "$($settings.defaultUserName)" -NoPassword -UserMayNotChangePassword -AccountNeverExpires
-  # Add-LocalGroupMember -Group "$()" -Member "$($settings.defaultUserName)"
+  Add-LocalGroupMember -SID "S-1-5-32-545" -Member "$($settings.defaultUserName)"
 }
 
 # <--> <--> Running <--> <-->
@@ -66,6 +66,7 @@ $configs = [ordered]@{
   }
 }
 
+# Running
 Write-Host "Default Configurations:" -ForegroundColor Green
 $configs.general
 $configs.network
@@ -73,6 +74,5 @@ $configs.optimize
 
 Write-Host "Press any key to continue." -ForegroundColor Green
 [Console]::ReadKey()
-
 
 createDefaultUser($configs.general)
