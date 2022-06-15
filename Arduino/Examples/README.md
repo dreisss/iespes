@@ -1,6 +1,9 @@
 ## [**_ARDUINO EXAMPLES:_**](#)
 
-Here is the content we used in basic electronics classes. These examples were made to introduce students to 'Arduino World' and how it works. After this, we started to make two main projects: Arduino Car and Smart House. Unfortunately, we were unable to finish due to 'other factors'.
+Here is the content we used in basic electronics classes. These examples were
+made to introduce students to 'Arduino World' and how it works. After this, we
+started to make two main projects: Arduino Car and Smart House. Unfortunately,
+we were unable to finish due to 'other factors'.
 
 <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
