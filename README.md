@@ -1,19 +1,19 @@
-<div align="center">
-  <img height="50px" src=".github/assets/logo.svg">
+<br>
 
-  <table>
-    <tr align="center">
-      <td> <img height="25px" src=".github/assets/logo-mini.svg" /> </td>
-      <td> Repository to save and organize Iespes projects/things </td>
-    </tr>
-  </table>
+<div align="center">
+  <img height="60px" align="center"
+    src="https://raw.githubusercontent.com/dreisss/Iespes-Extra/main/design/logos/iespes_logo.svg"
+  />
 </div>
 
-Projects I've made when I was in the Iespes Computer Network course(2021 - 2023).
-During this period, I worked as a **tutor/assistant professor** and
-**computer laboratory monitor**.
+<br>
 
-They are divided in some sections by context, see below:
+This repository is to save and organize some projects and things I've made while
+I was a student of the _Computer Networks course_ at [**Iespes**](https://iespes.com.br).
+During this period, from 2021 to 2023, I worked as a **tutor/assistant professor**
+and **computer laboratory monitor** as well.
+
+See the content below:
 
 <table align="center">
   <tr>
@@ -46,33 +46,7 @@ They are divided in some sections by context, see below:
       </b>
     </td>
   </tr>
-  <tr>
-    <th>
-      <h3>
-        <b> Labins 💻 </b>
-      </h3>
-    </th>
-    <th>
-      <h3>
-        <b> Other: </b>
-        <img align="center" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      </h3>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Scripts used in the labins: <br>
-      <b>
-        <a href="./Labins/Scripts/Windows"> Windows Scripts </a> <br>
-        <a href="./Labins/Scripts/Linux"> Linux Scripts </a>
-      </b>
-    </td>
-    <td>
-      Other things made at Iespes. <br>
-      <b>
-        <a href="./Other/Matlab/"> Matlab Scripts </a> <br>
-        <a href="./Other/Python/"> Python Scripts </a>
-      </b>
-    </td>
-  </tr>
 </table>
+
+Related to this, you can see the Extras repository:
+[**Iespes-Extra**](https://github.com/dreisss/Iespes-Extra).
