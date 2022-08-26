@@ -1,55 +1,57 @@
 body {
-    width:100vw; height: 100vh;
-    margin: 0px; padding: 0px;
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-    background-color: #191622;
-    font-family: Arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #191622;
+  font-family: Arial;
 }
 
 div#main-div {
-    width: 25%;
-    height: 50%;
-    padding: 10px 0px 10px 0px;
-    
-    border: 1px solid #41414d;
-    border-radius: 6px;
+  width: 25%;
+  height: 50%;
+  padding: 10px 0px 10px 0px;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  border: 1px solid #41414d;
+  border-radius: 6px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h2#title {
-    text-align: center;
-    color: #e1e1e6;
+  text-align: center;
+  color: #e1e1e6;
 }
 
 div#inputs {
-    width: 60%;
-    height: 60%;
-    margin: 0px;
-    padding: 10px;
+  width: 60%;
+  height: 60%;
+  margin: 0px;
+  padding: 10px;
 
-    border-radius: 3px;
+  border-radius: 3px;
 
-    background-color: #e1e1e6;
+  background-color: #e1e1e6;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
 p {
-    margin-top: 2px;
-    /* margin: 2px 0px 0px 0px; */
+  margin-top: 2px;
+  /* margin: 2px 0px 0px 0px; */
 }
 
 input#login-button {
-    width: 70%;
-    height: 25px;
-    align-self: center;
+  width: 70%;
+  height: 25px;
+  align-self: center;
 }

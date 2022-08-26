@@ -1,42 +1,68 @@
 body {
-    height: 100vh; margin: 0;
+  height: 100vh;
+  margin: 0;
 
-    display: flex;
-    justify-content: center; align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
-    background-color: #191622; color: #e1e2e6;
-    font-family: Arial;
+  background-color: #191622;
+  color: #e1e2e6;
+  font-family: Arial;
 }
 
 div#main {
-    width: 10cm; height: 12cm; padding: 5mm 2mm 7mm 1mm;
+  width: 10cm;
+  height: 12cm;
+  padding: 5mm 2mm 7mm 1mm;
 
-    display: flex; flex-direction: column;
-    justify-content: space-evenly; align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
 
-    border: 1mm solid #44475a; border-radius: 10px;
+  border: 1mm solid #44475a;
+  border-radius: 10px;
 }
 
-span#velocity { font-size: 3.5cm; }
+span#velocity {
+  font-size: 3.5cm;
+}
 
-div#shower2 { width: 50%; display: flex; justify-content: space-between; }
+div#shower2 {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
 
-div.shower2-div { width: 40%; font-size: 5mm; }
+div.shower2-div {
+  width: 40%;
+  font-size: 5mm;
+}
 
 h5.shower2-title {
-    margin: 0 0 2mm 0; padding: 0.6mm;
-    border-bottom: 0.6mm solid #44475a;
+  margin: 0 0 2mm 0;
+  padding: 0.6mm;
+  border-bottom: 0.6mm solid #44475a;
 }
 
 input#run-button {
-    width: 2.4cm; height: 1cm;
+  width: 2.4cm;
+  height: 1cm;
 
-    background-color: #44475a; color: #e1e2e6;
-    border: none; border-radius: 2mm;
+  background-color: #44475a;
+  color: #e1e2e6;
+  border: none;
+  border-radius: 2mm;
 
-    font-size: medium;
+  font-size: medium;
 }
 
-input#run-button:hover { background-color: #483C67; cursor: pointer; }
+input#run-button:hover {
+  background-color: #483c67;
+  cursor: pointer;
+}
 
-input#run-button:active { background-color: #988BC7; }
+input#run-button:active {
+  background-color: #988bc7;
+}
