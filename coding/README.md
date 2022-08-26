@@ -34,9 +34,9 @@ As an extra challenge I made two other sites to be recreated:
 
 <div>
 
-[**simple login page**]: https://dreisss.github.io/iespes/coding/html-css/class01/login-page
-[**router login page**]: https://dreisss.github.io/iespes/coding/html-css/class02/router-login
-[**speed test page**]: https://dreisss.github.io/iespes/coding/html-css/class03/speed-page
-[**google login page**]: https://dreisss.github.io/iespes/coding/html-css/class04/google-login
+[**simple login page**]: https://dreisss.github.io/iespes/coding/html&css/class01/login-page
+[**router login page**]: https://dreisss.github.io/iespes/coding/html&css/class02/router-login
+[**speed test page**]: https://dreisss.github.io/iespes/coding/html&css/class03/speed-page
+[**google login page**]: https://dreisss.github.io/iespes/coding/html&css/class04/google-login
 [**spotify clone**]: https://dreisss.github.io/iespes/coding/extra/spotify
 [**spotify clone (responsive)**]: https://dreisss.github.io/iespes/coding/extra/spotify
