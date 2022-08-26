@@ -22,9 +22,9 @@ As practical exercise the students cloned some sites:
 As an extra challenge I made two other sites to be recreated:
 
 - [**Spotify Clone**] - The simplest Spotify clone using just pure HTML, CSS and
-basic Javascript
+  basic Javascript
 - [**Spotify Clone (Responsive)**] - The same site as before but with basic
-responsiveness
+  responsiveness
 
 <br>
 
@@ -34,9 +34,9 @@ responsiveness
 
 <div>
 
-[**Simple login page**]: https://dreisss.github.io/iespes/coding/html-css/class01/login-page
-[**Router login page**]: https://dreisss.github.io/iespes/coding/html-css/class02/router-login
-[**Speed test page**]: https://dreisss.github.io/iespes/coding/html-css/class03/speed-page
-[**Google login page**]: https://dreisss.github.io/iespes/coding/html-css/class04/google-login
-[**Spotify Clone**]: https://dreisss.github.io/iespes/coding/extra/spotify
-[**Spotify Clone (Responsive)**]: https://dreisss.github.io/iespes/coding/extra/spotify
+[**simple login page**]: https://dreisss.github.io/iespes/coding/html-css/class01/login-page
+[**router login page**]: https://dreisss.github.io/iespes/coding/html-css/class02/router-login
+[**speed test page**]: https://dreisss.github.io/iespes/coding/html-css/class03/speed-page
+[**google login page**]: https://dreisss.github.io/iespes/coding/html-css/class04/google-login
+[**spotify clone**]: https://dreisss.github.io/iespes/coding/extra/spotify
+[**spotify clone (responsive)**]: https://dreisss.github.io/iespes/coding/extra/spotify

@@ -31,11 +31,11 @@ made to introduce students to 'Arduino World' and how it works.
 
 <div>
 
-[**Serial**]: ./examples/exs01/serial
-[**Blink**]: ./examples/exs01/blink
-[**Fade**]: ./examples/exs01/fade
-[**Distance**]: ./examples/exs01/distance
-[**Servo_pot**]: ./examples/exs01/servo_pot
-[**Semaphore**]: ./examples/exs02/semaphore
-[**Tone**]: ./examples/exs02/tone
-[**Lcd**]: ./examples/exs02/lcd
+[**serial**]: ./examples/exs01/serial
+[**blink**]: ./examples/exs01/blink
+[**fade**]: ./examples/exs01/fade
+[**distance**]: ./examples/exs01/distance
+[**servo_pot**]: ./examples/exs01/servo_pot
+[**semaphore**]: ./examples/exs02/semaphore
+[**tone**]: ./examples/exs02/tone
+[**lcd**]: ./examples/exs02/lcd

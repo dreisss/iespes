@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title> Router Login </title>
-        <link rel="stylesheet" href="./style.css">
-    </head>
-    <body>
-        
-        <div id="header">
-            <img id="logo" src="./utils/logo.png" alt="TP-LINK logo">
+  <head>
+    <title>Router Login</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="header">
+      <img id="logo" src="./utils/logo.png" alt="TP-LINK logo" />
 
-            <h2 id="model">Modelo</h2>
-        </div>
+      <h2 id="model">Modelo</h2>
+    </div>
 
-        <div id="inputs">
+    <div id="inputs">
+      <div class="input-div">
+        <img class="icon" src="./utils/icon1.png" />
+        <input class="input-text" id="user" type="text" placeholder="admin" />
+      </div>
 
-            <div class="input-div">
-                <img class="icon" src="./utils/icon1.png">
-                <input class="input-text" id="user" type="text" placeholder="admin">
-            </div>
+      <div class="input-div">
+        <img class="icon" src="./utils/icon2.png" />
+        <input
+          class="input-text"
+          id="password"
+          type="password"
+          placeholder="........"
+        />
+      </div>
 
-            <div class="input-div">
-                <img class="icon" src="./utils/icon2.png">
-                <input class="input-text" id="password" type="password" placeholder="........">
-            </div>
-
-            <input id="button" type="button" value="Login">
-
-        </div>
-
-    </body>
+      <input id="button" type="button" value="Login" />
+    </div>
+  </body>
 </html>

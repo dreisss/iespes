@@ -30,9 +30,9 @@ be redirected.
 
 [**_iespes_**]: https://www.iespes.com.br
 [**_iespes extra_**]: https://github.com/dreisss/iespes-extra
-[**_`Coding`_**]: ./coding
-[**_`Robotics`_**]: ./robotics
+[**_`coding`_**]: ./coding
+[**_`robotics`_**]: ./robotics
 [<img height="22px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[<img height="22px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>]:https://developer.mozilla.org/en-US/docs/Web/CSS
+[<img height="22px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [<img height="24px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>]: https://devdocs.io/c/
 [<img height="24px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>]: https://www.arduino.cc
