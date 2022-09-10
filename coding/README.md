@@ -39,4 +39,4 @@ As an extra challenge I made two other sites to be recreated:
 [**speed test page**]: https://dreisss.github.io/iespes/coding/html&css/class03/speed-page
 [**google login page**]: https://dreisss.github.io/iespes/coding/html&css/class04/google-login
 [**spotify clone**]: https://dreisss.github.io/iespes/coding/extra/spotify
-[**spotify clone (responsive)**]: https://dreisss.github.io/iespes/coding/extra/spotify
+[**spotify clone (responsive)**]: https://dreisss.github.io/iespes/coding/extra/spotify-responsive
