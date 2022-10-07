@@ -36,6 +36,6 @@ made to introduce students to 'Arduino World' and how it works.
 
 <div align="right">
 
-[**_`❰ Return to main page`_**](https://github.com/dreisss/iespes)
+[**_`❰ Return to past page`_**](../)
 
 </div>

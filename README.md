@@ -18,9 +18,8 @@ Other repo with related content is the [**_iespes extra_**] repo.
 The content here is separated as indicated below, click on the section name to
 be redirected to it.
 
-- [**_`Coding`_**](./coding/) | Projects mainly related to HTML and CSS to classes.
-
-- [**_`Robotics`_**](./robotics/) | Matlab scripts made at the request of a teacher
+- 👨‍🏫 [**_`Classes`_**](./classes/) | Content related to basic algorithms and basic
+  electronics "default classes".
 
 [**_iespes_**]: https://www.iespes.com.br
 [**_iespes extra_**]: https://github.com/dreisss/iespes-extra
