@@ -1,6 +1,7 @@
 # [**Bash**](#bash)
 
 - [**_`Basic`_**](./basic.md)
+- [**_`Package Manager and Simple Applications`_**](./pkgmgr-apps.md)
 
 <br>
 
