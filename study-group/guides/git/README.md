@@ -1,6 +1,7 @@
 # [**Git**](#git)
 
 - [**_`Basic`_**](./basic.md)
+- [**_`Workflows`_**](./workflows.md)
 
 <br>
 
