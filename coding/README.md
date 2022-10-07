@@ -1,3 +1,10 @@
+[**simple login page**]: https://dreisss.github.io/iespes/coding/html&css/class01/login-page
+[**router login page**]: https://dreisss.github.io/iespes/coding/html&css/class02/router-login
+[**speed test page**]: https://dreisss.github.io/iespes/coding/html&css/class03/speed-page
+[**google login page**]: https://dreisss.github.io/iespes/coding/html&css/class04/google-login
+[**spotify clone**]: https://dreisss.github.io/iespes/coding/extra/spotify
+[**spotify clone (responsive)**]: https://dreisss.github.io/iespes/coding/extra/spotify-responsive
+
 <h1>
   <img height="32px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="32px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -32,11 +39,4 @@ As an extra challenge I made two other sites to be recreated:
 
 [**_`❰ Return to main page`_**](https://github.com/dreisss/iespes)
 
-<div>
-
-[**simple login page**]: https://dreisss.github.io/iespes/coding/html&css/class01/login-page
-[**router login page**]: https://dreisss.github.io/iespes/coding/html&css/class02/router-login
-[**speed test page**]: https://dreisss.github.io/iespes/coding/html&css/class03/speed-page
-[**google login page**]: https://dreisss.github.io/iespes/coding/html&css/class04/google-login
-[**spotify clone**]: https://dreisss.github.io/iespes/coding/extra/spotify
-[**spotify clone (responsive)**]: https://dreisss.github.io/iespes/coding/extra/spotify-responsive
+</div>
