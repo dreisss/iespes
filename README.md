@@ -16,26 +16,12 @@ Other repo with related content is the [**_iespes extra_**] repo.
 ## [**Content**](#content)
 
 The content here is separated as indicated below, click on the section name to
-be redirected.
+be redirected to it.
 
-- [**_`Coding`_**]
-  [<img height="22px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>]
-  [<img height="22px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>]
-  | Projects mainly related to HTML and CSS.
-
-- [**_`Robotics`_**]
-  [<img height="24px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>]
-  [<img height="24px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>]
-  | Matlab scripts made at the request of a teacher
-
-- [**_`Guides`_**]
+- 👨‍🏫 [**_`Classes`_**](./classes/) | Content related to basic algorithms and basic
+  electronics "default classes".
+- 🎓 [**_`Study Group`_**](./study-group//) | Content related with several areas;
+  developed to my "study group".
 
 [**_iespes_**]: https://www.iespes.com.br
 [**_iespes extra_**]: https://github.com/dreisss/iespes-extra
-[**_`coding`_**]: ./coding
-[**_`robotics`_**]: ./robotics
-[**_`guides`_**]: ./robotics
-[<img height="22px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[<img height="22px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[<img height="24px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>]: https://devdocs.io/c/
-[<img height="24px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>]: https://www.arduino.cc

@@ -1,3 +1,12 @@
+[**serial**]: ./examples/exs01/serial
+[**blink**]: ./examples/exs01/blink
+[**fade**]: ./examples/exs01/fade
+[**distance**]: ./examples/exs01/distance
+[**servo_pot**]: ./examples/exs01/servo_pot
+[**semaphore**]: ./examples/exs02/semaphore
+[**tone**]: ./examples/exs02/tone
+[**lcd**]: ./examples/exs02/lcd
+
 <h1>
   <img height="32px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img height="32px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
@@ -27,15 +36,6 @@ made to introduce students to 'Arduino World' and how it works.
 
 <div align="right">
 
-[**_`❰ Return to main page`_**](https://github.com/dreisss/iespes)
+[**_`❰ Return to past page`_**](../)
 
-<div>
-
-[**serial**]: ./examples/exs01/serial
-[**blink**]: ./examples/exs01/blink
-[**fade**]: ./examples/exs01/fade
-[**distance**]: ./examples/exs01/distance
-[**servo_pot**]: ./examples/exs01/servo_pot
-[**semaphore**]: ./examples/exs02/semaphore
-[**tone**]: ./examples/exs02/tone
-[**lcd**]: ./examples/exs02/lcd
+</div>

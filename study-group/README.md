@@ -1,4 +1,4 @@
-# [**Guides**](#guides)
+# [**Study Group**](#study-group)
 
 <br>
 
