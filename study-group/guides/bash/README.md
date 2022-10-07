@@ -1,5 +1,7 @@
 # [**Bash**](#bash)
 
+- [**_`Basic`_**](./basic.md)
+
 <br>
 
 <div align="right">
