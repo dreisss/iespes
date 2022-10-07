@@ -6,6 +6,8 @@ Material developed to support the projects created in the study group.
 
 Simple guides to use as a basic documentation to some technologies:
 
+- [**_`Bash`_**](./guides/bash/)
+
 <br>
 
 <div align="right">
