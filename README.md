@@ -18,10 +18,11 @@ Other repo with related content is the [**_iespes extra_**] repo.
 The content here is separated as indicated below, click on the section name to
 be redirected to it.
 
-- 👨‍🏫 [**_`Classes`_**](./classes/) | Content related to basic algorithms and basic
+- [**_`Classes`_**](./classes/) | Content related to basic algorithms and basic
   electronics "default classes".
-- 🎓 [**_`Study Group`_**](./study-group//) | Content related with several areas;
+- [**_`Study Group`_**](./study-group/) | Content related with several areas;
   developed to my "study group".
+- [**_`Kotlin Classes`_**](./kotlin-classes/) | Exercises proposed by the teacher made using kotlin
 
 [**_iespes_**]: https://www.iespes.com.br
 [**_iespes extra_**]: https://github.com/dreisss/iespes-extra
