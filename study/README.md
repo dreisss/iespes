@@ -1,15 +1,15 @@
-# [**Study Group**](#study-group)
+[**_`bash`_**]: ./guides/bash
+[**_`git`_**]: ./guides/git
 
-Material developed to support the projects created in the study group.
+# [**_`Study`_**](#study)
+
+Content developed to my personal study and support my friends.
 
 ## [**Guides**](#guides)
 
 Simple guides to use as a basic documentation to some technologies:
 
-- [**_`Bash`_**](./guides/bash/)
-- [**_`Git`_**](./guides/git/)
-
-<br>
+| [**_`Bash`_**] | [**_`Git`_**] |
 
 <div align="right">
 
