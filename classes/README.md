@@ -1,17 +1,17 @@
-[**_`basic coding`_**]: ./basic-coding
-[**_`basic robotics`_**]: ./basic-robotics
-[**_`kotlin`_**]: ./kotlin
+[previous]: https://github.com/dreisss/iespes
 
-# [**_`Classes`_**](#classes)
+# [**_`Iespes: Classes`_**](#iespes-classes)
 
 Content developed/used in some classes.
 
 This content is divided as below:
 
-| [**_`Basic Coding`_**] | [**_`Basic Robotics`_**] | [**_`Kotlin`_**] |
+| [**_`Basic Coding`_**](./basic-coding/)
+| [**_`Basic Robotics`_**](./basic-robotics/)
+| [**_`Basic Kotlin`_**](./basic-kotlin/) |
 
 <div align="right">
 
-[**_`❰ Return to main page`_**](https://github.com/dreisss/iespes)
+[**_`❰ Return to previous page`_**][previous]
 
 </div>
