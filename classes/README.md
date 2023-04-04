@@ -8,7 +8,8 @@ This content is divided as below:
 
 | [**_`Basic Coding`_**](./basic-coding/)
 | [**_`Basic Robotics`_**](./basic-robotics/)
-| [**_`Basic Kotlin`_**](./basic-kotlin/) |
+| [**_`Basic Kotlin`_**](./basic-kotlin/)
+| [**_`Other`_**](./other/) |
 
 <div align="right">
 
