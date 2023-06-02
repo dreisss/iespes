@@ -1,6 +1,6 @@
-# [**Workflows**](#workflows)
+# Workflows
 
-## [**Github Flow & Git Flow**](#github-flow--git-flow)
+## Github Flow & Git Flow:
 
 A ampla utilização de repositórios git veio acompanhada de diversos modelos de
 padronização, seja padronizações nas mensagens dos commits, na utilização das

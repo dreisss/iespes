@@ -1,6 +1,8 @@
-[previous]: https://github.com/dreisss/iespes
+[iespes]: https://www.iespes.com.br "Instituto Esperança de Ensino Superior"
 
-# [**_`Iespes: Classes`_**](#iespes-classes)
+[<img height="50px" src="https://raw.githubusercontent.com/dreisss/iespes-extra/main/design/logos/logo.svg" />][iespes]
+
+### Classes
 
 Content developed/used in some classes.
 
@@ -10,9 +12,3 @@ This content is divided as below:
 | [**_`Basic Robotics`_**](./basic-robotics/)
 | [**_`Basic Kotlin`_**](./basic-kotlin/)
 | [**_`Other`_**](./other/) |
-
-<div align="right">
-
-[**_`❰ Return to previous page`_**][previous]
-
-</div>

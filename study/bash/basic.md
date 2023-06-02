@@ -1,8 +1,8 @@
-# [**Bash basics**](#bash-basics)
+# Bash basics
 
 Conceitos e comandos básicos para utilização de um terminal bash.
 
-## [**Comandos de Navegação:**](#comandos-de-navegação)
+## Comandos de Navegação:
 
 - **_`cd`_**: '**c**hange **d**irectory' / Mudar diretório
 
@@ -61,7 +61,7 @@ Conceitos e comandos básicos para utilização de um terminal bash.
     comando, sendo possível rodar, por exemplo, `ls -la` para listar todos os
     arquivos com informações adicionais.
 
-## [**Comandos para Arquivos e Diretórios:**](#comandos-para-arquivos-e-diretórios)
+## Comandos para Arquivos e Diretórios:
 
 - **_`mkdir`_**: '**m**a**k**e **dir**ectory' / Criar diretório
 

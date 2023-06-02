@@ -1,6 +1,6 @@
-# [**Package Managers and Simple Applications**](#package-managers-and-simple-applications)
+# Package Managers and Simple Applications
 
-## [**Gerenciadores de Pacotes**](#gerenciadores-de-pacotes)
+## Gerenciadores de Pacotes:
 
 Todo sistema operacional de respeito deve ter um gerenciador de pacotes que
 consegue se conectar a um servidor online, baixar e instalar os pacotes.
@@ -30,7 +30,7 @@ o que é uma stack de programação), alguns deles são:
 
 - **Cargo:** gerenciador padrão da linguagem _Rust_
 
-## [**Instalando Aplicativos / Softwares**](#instalando-aplicativos--softwares)
+## Instalando Aplicativos / Softwares:
 
 Uma das distribuições Linux mais utilizadas é o Ubuntu, cujo gerenciador de
 pacotes é o **apt**, que segue as seguintes regras para a instalação de pacotes:
@@ -66,7 +66,7 @@ desejado (o pacote _asdf_, por exemplo) em seu servidor oficial. Nem todo pacote
 está em um gerenciador, as vezes precisamos adicionar um servidor alternativo ao
 servidor original do gerenciador.
 
-## [**Rodando comandos / Entrada e saída padrão / Pipe**](#rodando-comandos--entrada-e-saída-padrão--pipe)
+## Rodando comandos / Entrada e saída padrão / Pipe:
 
 Em um terminal tudo são comandos, tendo entradas e saídas (_input_ e _output_)
 específicas. Quando 'chamamos' um comando ele pode tratar os dados de diferentes

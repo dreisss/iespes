@@ -1,4 +1,4 @@
-# [**Git Basics**](#git-basics)
+# Git Basics
 
 Conceitos básicos para utilização do git/github.
 
@@ -12,7 +12,7 @@ O histórico do git funciona, inicialmente, de acordo com uma lista de _commits_
 que guardam as modificações de determinada versão, e todas as informações sobre
 ela. Um commit pode ser definido como um ponto na história do repositório.
 
-## [**Instalação:**](#instalação)
+## Instalação:
 
 No ambiente Ubuntu, com o gerenciador de pacotes apt, basta rodar o comando:
 
@@ -22,7 +22,7 @@ No ambiente Ubuntu, com o gerenciador de pacotes apt, basta rodar o comando:
 
 Assim os comandos git já estarão disponíveis para utilização.
 
-## [**Comandos Básicos:**](#comandos-básicos)
+## Comandos Básicos:
 
 - **_`init`_**:
 
@@ -126,14 +126,14 @@ Seguindo os passos:
 ~/repos/repo$ echo '# Comandos básico de git' >> README.md
 # adiciona o texto indicado ao final do arquivo (pesquise sobre o comando echo)
 ~/repos/repo$ git status # verificando o estado dos arquivos
-~/repos/repo$ git add vREADME.md # muda o arquivo para staged
+~/repos/repo$ git add README.md # muda o arquivo para staged
 ~/repos/repo$ git commit -m 'adicionando o arquivo README'
 # cria o ponto na história do repositório com o novo arquivo
 ~/repos/repo$ git status # confirmando o estado dos arquivos
 ~/repos/repo$ git log # verificando o histórico do repositório
 ```
 
-## [**Manipulação de branches:**](#manipulação-de-branches)
+## Manipulação de branches:
 
 Como já discutido anteriormente, em um repositório git existe a possibilidade da
 criação de ramificações ou 'galhos' (branches). Com a utilização de branches
@@ -233,7 +233,7 @@ Para a manipulação das branches temos os seguintes comandos:
   e é a definida por padrão. Já a conserva a estrutura de árvore (por isso
   _three way_). Para forcar o método 3way podemos rodar: `git merge --no-ff`.
 
-## [**Sincronização com o Servidor Remoto:**](#sincronização-com-o-servidor-remoto)
+## Sincronização com o Servidor Remoto:
 
 O funcionamento de um repositório git não depende fortemente de um servidor remoto
 como o _Github_, _BitBucket_ ou _GitLab_, porém, em certas ocasiões é de grande
@@ -327,7 +327,7 @@ branch main desse no original precisamos criar um _pull request_. O pull request
 do repositório original. A criação desses pull requests pode ser feita diretamente
 do serviço de git remoto, nesse caso, o Github.
 
-## [**Comandos Mais Avançados:**](#comandos-mais-avançados)
+## Comandos Mais Avançados:
 
 - **_`add --patch`_**
 
