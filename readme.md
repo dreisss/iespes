@@ -12,5 +12,7 @@ be redirected to it.
 - [**_`Classes`_**](./classes/) | Content developed/used in some classes
 - [**_`Study`_**](./study/) | Content developed to my personal study and support my friends
 
-_Related repository_:
-[**_iespes-extra_**](https://github.com/dreisss/iespes-extra "Complementar repository to Iespes repository.")
+_Related repositories_:
+
+- [**_iespes-extra_**](https://github.com/dreisss/iespes-extra "Complementar repository to Iespes repository.")
+- [**_iespes-setup_**](https://github.com/dreisss/iespes-setup "Related to configuring computers at Iespes labs.")
